@@ -5,7 +5,7 @@
     "license": "LGPL-3.0-only",
     "version": "1.0.0",
     "homepage" : "http://mkframework.com",
-    
+    "minimum-stability": "dev",
      
     "require":{
         "mkframework/mkframework-lib":"4.133.0"
