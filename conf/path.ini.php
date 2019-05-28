@@ -1,6 +1,5 @@
 [path]
-lib=../../../Lib/mkframeworkLib/
-builder=../../../Builder/
+lib=../vendor/mkframework/mkframework-lib/
 
 data=../data/
 upload=../data/upload/
