@@ -3,14 +3,14 @@
     "description": "Skeleton to create a mkframework application",
     "type": "project",
     "license": "LGPL-3.0-only",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "homepage" : "http://mkframework.com",
     "minimum-stability": "dev",
     "prefer-stable": true,
-     
+
     "require":{
         "mkframework/mkframework-lib":">=4.133.0"
-    }   
+    }
 
-    
+
 }
