@@ -3,13 +3,15 @@
     "description": "Skeleton to create a mkframework application",
     "type": "project",
     "license": "LGPL-3.0-only",
-    "version": "1.2.0",
+    "version": "2.0.0",
     "homepage" : "http://mkframework.com",
     "minimum-stability": "dev",
     "prefer-stable": true,
 
     "require":{
-        "mkframework/mkframework-lib":">=4.135.0"
+        "php": ">=7.2.0",
+
+        "mkframework/mkframework-lib":">=5.0.0"
     }
 
 
