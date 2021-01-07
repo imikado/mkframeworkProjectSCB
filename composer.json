@@ -3,7 +3,7 @@
     "description": "Skeleton to create a mkframework application",
     "type": "project",
     "license": "LGPL-3.0-only",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "homepage" : "http://mkframework.com",
     "minimum-stability": "dev",
     "prefer-stable": true,
